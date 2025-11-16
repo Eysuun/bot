@@ -1,4 +1,4 @@
-require("dotenv").config();
+require("dotenv").config({ path: "e.env" });
 const axios = require("axios");
 
 // Konfiguracja
